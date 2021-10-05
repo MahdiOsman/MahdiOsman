@@ -4,7 +4,7 @@
 ```javascript
 const aboutMe = {
    
-   code: [Javascript, C++, HTML, CSS, Python, Java, C#],
+   code: [Javascript, C++, HTML, CSS, Python, Java, CSharp],
    technologies: {
       backEnd: {
          java: ["Spring"],
