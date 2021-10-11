@@ -12,7 +12,7 @@ const aboutMe = {
          csharp: ["Asp.net Core"],
          misc: ["Bash"]
       },
-      databases: ["mySQL", "SQLServer"],
+      databases: ["mySQL"],
       mobile: ["IOS"]
    },
    currentOccupation: ["N/A"],
