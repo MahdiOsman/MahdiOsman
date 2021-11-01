@@ -16,6 +16,6 @@ const aboutMe = {
       mobile: ["IOS"]
    },
    currentOccupation: ["N/A"],
-   challenge: "Construct a simple AI.",
+   challenge: "Construct a simple AI Framework.",
 };
 ```
