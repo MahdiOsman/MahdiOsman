@@ -4,16 +4,15 @@
 ```javascript
 const aboutMe = {
    
-   code: [Javascript, C++, HTML, CSS, Python, Java, CSharp],
+   code: [C++, CSharp, HTML, Java, Javascript, Python],
    technologies: {
       backEnd: {
-         java: ["Spring"],
-         js: ["Node"],
+         js: ["NodeJS"],
          csharp: ["Asp.net Core"],
          misc: ["Bash"]
       },
       databases: ["mySQL"],
-      mobile: ["IOS"]
+      mobile: ["-"]
    },
    currentOccupation: ["N/A"],
    challenge: "Construct a simple AI Framework.",
