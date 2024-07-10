@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**MahdiOsman/MahdiOsman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a recent graduate from the [University of Nicosia](https://www.unic.ac.cy/), with a Bachelor's degree in Computer Science. I have a strong passion for coding and technology.
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const aboutMe = {
+   code: [C++, CSharp, HTML, Java, Javascript, Python],
+   technologies: {
+      backEnd: {
+         js: ["NodeJS"],
+         csharp: ["Asp.net Core"],
+         misc: ["Bash"]
+      },
+      databases: ["mySQL"],
+      mobile: ["-"]
+   },
+   currentOccupation: ["Looking for opportunities"],
+   challenge: "Construct a simple AI Framework.",
+};
+```
+
+📄 Bachelor Thesis
+You can check out my Bachelor thesis [here](https://github.com/MahdiOsman/FinalYearProject/blob/main/MahdiOsman_Thesis.pdf). It covers the implementation of Computer Vision and AI for gameplaying into the NAO Humanoid Robot.
