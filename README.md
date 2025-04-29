@@ -14,8 +14,7 @@ const aboutMe = {
       databases: ["MySQL", "PostgreSQL", "MongoDB"],
       mobile: ["React Native"]
    },
-   currentOccupation: ["Living Life."],
-   challenge: "Build a modular AI framework in Python using TensorFlow and scikit-learn.",
+   currentOccupation: ["Living Life."]
 };
 
 ```
